@@ -1,2 +1,2 @@
-# my-first-pag
+# my-first-page
 studying html
